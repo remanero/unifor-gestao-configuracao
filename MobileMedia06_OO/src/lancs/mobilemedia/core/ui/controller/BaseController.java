@@ -43,10 +43,6 @@ public class BaseController extends AbstractController {
 	 * Initialize the controller
 	 */
 	public void init(AlbumData model) {
-		
-		//SelectMediaController
-
-		
 		//Get all MobileMedia defined albums from the record store
 		String[] albumNames = model.getAlbumNames();
 		getAlbumListScreen().deleteAll();
