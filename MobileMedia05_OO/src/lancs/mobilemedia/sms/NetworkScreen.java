@@ -7,7 +7,7 @@ import javax.microedition.lcdui.Item;
 import javax.microedition.lcdui.TextField;
 
 /**
- * @author tyoung
+ * @author tyoung - Renato Mendes
  *
  * To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Generation - Code and Comments
