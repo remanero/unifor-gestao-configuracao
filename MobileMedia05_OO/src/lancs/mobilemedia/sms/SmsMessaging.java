@@ -18,7 +18,7 @@ import lancs.mobilemedia.core.comms.BaseMessaging;
 
 
 /**
- * @author trevor
+ * @author Renato Mendes
  *
  * Insert Comments here
  * 
