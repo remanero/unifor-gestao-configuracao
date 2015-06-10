@@ -1,5 +1,5 @@
 package lancs.mobilemedia.core.ui;
-
+//renato
 import javax.microedition.lcdui.Display;
 import javax.microedition.midlet.MIDlet;
 import javax.microedition.midlet.MIDletStateChangeException;
